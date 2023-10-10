@@ -1,3 +1,6 @@
+body{
+    background : linear-gradient (100deg, #ffffff 50%, #0dcccc 50%);
+}
 .awal ul{
     align-items: center;
     text-align: right;
